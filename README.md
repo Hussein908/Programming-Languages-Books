@@ -1,4 +1,4 @@
-<p style = "color: yellow;">BOOKS in ENGLISH, TURKISH and AZERBAIJANI LANGUAGES 
+<p style = "color: yellow;">BOOKS in ENGLISH, TURKISH and AZERBAIJANI LANGUAGES 🎁
 
 ---
 <p style = "color: orange;"> <b> C/C++ <b> <br>
