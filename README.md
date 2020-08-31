@@ -1,6 +1,7 @@
-<span style = "color: green">BOOKS in ENGLISH, TURKISH and AZERBAIJANI LANGUAGES </span>
+<p style = "color: yellow;">BOOKS in ENGLISH, TURKISH and AZERBAIJANI LANGUAGES 
+
 ---
-<span> <code style = "color: orange;"> <b> C/C++ <b> </span> <br>
-<code style = "color: red;"> <b> JavaScript <b> <br>
-<code style = "color: green;"> <b> JAVA <b> <br>
----
+<p style = "color: orange;"> <b> C/C++ <b> <br>
+<p style = "color: red;"> <b> JavaScript <b> <br>
+<p style = "color: green;"> <b> JAVA <b> <br>
+
